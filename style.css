@@ -1,0 +1,29 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+#container{
+	width:960px;
+	margin:0px auto;
+}
+
+form{
+	width:300px;
+	margin-top:10px;
+	float:left;
+}
+
+input{
+	margin-bottom:15px;
+}
+
+.box{
+	float:right;
+	vertical-align:top;
+	margin-top:20px;
+	width:600px;
+	border:1px solid black;
+	padding:20px;
+}
